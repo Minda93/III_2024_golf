@@ -1,0 +1,2 @@
+﻿id,shot_data_id,expert_trajectory,expert_note,expert_p_system,expert_suggestion,expert_cause,expert_err_msg,expert_update_time
+186349,186416,"Pull Hook 左拉左曲球",NULL,"P7 Impact 擊球",擊球時，左手腕應恢復成未彎曲的狀態，及注意擊球點位置,桿面關閉，擊球點位於球的外側，手腕繼續彎曲未保持向前,NULL,"2024-08-16 13:03:17"

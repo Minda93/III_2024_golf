@@ -1,0 +1,2 @@
+﻿id,idx,LID,Player,Date_str,Date,Token,BallSpeed,LaunchAngle,LaunchDirection,ClubHeadSpeed,ClubAngleFace,ClubAnglePath,BackSpin,SideSpin,SmashFactor,ClubType,DistToPinFt,CarryDistFt,TotalDistFt,shot_video_id
+189861,122049,018,Sun233,1724127649474,"2024-08-20 12:20:49",82a85d90-4e67-43b6-9f88-c2aa6db48ebd,70.236,15.633,-3.993,52.449,-3.88,-4.434,3349,-83,1.34,7Iron,283.3,200.4,242.6,NULL

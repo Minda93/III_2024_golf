@@ -1,0 +1,2 @@
+﻿id,shot_data_id,expert_trajectory,expert_note,expert_p_system,expert_suggestion,expert_cause,expert_err_msg,expert_update_time
+189796,189863,"擊球失敗,無法判定",NULL,"擊球失敗,無法判定",球桿面和高爾夫球接觸中心點的水平球桿面方向超出正常範圍,擊球姿勢嚴重錯誤,NULL,"2024-08-20 12:23:30"
